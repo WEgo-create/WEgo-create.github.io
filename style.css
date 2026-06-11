@@ -20,3 +20,12 @@ p {
   color: #cccccc;
   font-size: 18px;
 }
+a {
+  color: #cccccc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  letter-spacing: 2px;
+}
