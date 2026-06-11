@@ -1,0 +1,22 @@
+body {
+  background: #111111;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+h1 {
+  font-size: 60px;
+  letter-spacing: 5px;
+}
+
+h2 {
+  margin-top: 60px;
+  letter-spacing: 3px;
+}
+
+p {
+  color: #cccccc;
+  font-size: 18px;
+}
